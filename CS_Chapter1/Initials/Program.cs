@@ -10,6 +10,20 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            System.Console.Out.WriteLine("DDDDDDDD                 DDDDDDDD");
+            System.Console.Out.WriteLine("D       D                D       D");
+            System.Console.Out.WriteLine("D         D              D         D");
+            System.Console.Out.WriteLine("D          D             D          D");
+            System.Console.Out.WriteLine("D           D            D           D");
+            System.Console.Out.WriteLine("D            D           D            D");
+            System.Console.Out.WriteLine("D             D          D              D");
+            System.Console.Out.WriteLine("D             D          D              D");
+            System.Console.Out.WriteLine("D            D           D             D");
+            System.Console.Out.WriteLine("D            D           D            D");
+            System.Console.Out.WriteLine("D           D            D           D");
+            System.Console.Out.WriteLine("D         D              D         D");
+            System.Console.Out.WriteLine("D       D                D        D");
+            System.Console.Out.WriteLine("DDDDDDD                  DDDDDDD");
         }
     }
 }
