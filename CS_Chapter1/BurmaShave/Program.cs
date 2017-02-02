@@ -10,6 +10,7 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("To soothe And smooth Your tender skin It's now improved With Lanolin");
         }
     }
 }

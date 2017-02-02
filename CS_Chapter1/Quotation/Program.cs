@@ -10,6 +10,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Peace through tyranny \n -Megatron");
         }
     }
 }

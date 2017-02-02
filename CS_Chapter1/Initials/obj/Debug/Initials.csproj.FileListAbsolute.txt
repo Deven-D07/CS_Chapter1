@@ -1,1 +1,2 @@
 C:\Users\eahscs\Desktop\CS_Chapter1\CS_Chapter1\Initials\bin\Debug\Initials.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Initials\bin\Debug\Initials.exe.config
